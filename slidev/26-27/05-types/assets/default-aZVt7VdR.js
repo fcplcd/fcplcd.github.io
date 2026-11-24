@@ -1,0 +1,1 @@
+import{o as t,e as o,g as e,i as l}from"./modules/vue-BbISiMPe.js";import{u as a}from"./slidev/context-DsXEYn_q.js";const c={class:"h-full"},n={class:"slidev-layout default"},r={class:"content px-[96px] py-[80px] w-full h-full"},p={__name:"default",setup(_){return a(),(s,d)=>(t(),o("div",c,[e("div",n,[e("div",r,[l(s.$slots,"default")])])]))}};export{p as _};

@@ -1,0 +1,1 @@
+import{B as o,E as i,P as n}from"./modules/vue-BbISiMPe.js";import"./index-CyTZE5Ky.js";import{u as c}from"./slidev/context-DsXEYn_q.js";function u(){const t=n({});function s(r){const a=o(c().$page);i(()=>{t[a]=o(r)})}return{store:t,publish:s}}const e=u(),m=e.store;function g(t){e.publish(t)}export{m as s,g as u};
